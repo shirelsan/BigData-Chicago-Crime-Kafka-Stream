@@ -5,7 +5,8 @@
 * Tehila Ben-David (314692195)
 
 **Submission Date:** 2026-06-04
-**Git Repository:** [BigData-Chicago-Crime-Kafka-Stream](https://github.com/YOUR_USERNAME/BigData-Chicago-Crime-Kafka-Stream)
+
+**Git Repository:** https://github.com/YOUR_USERNAME/BigData-Chicago-Crime-Kafka-Stream
 
 ## 1. Environment Setup
 
