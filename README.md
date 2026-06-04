@@ -6,7 +6,7 @@
 
 **Submission Date:** 2026-06-04
 
-**Git Repository:** https://github.com/YOUR_USERNAME/BigData-Chicago-Crime-Kafka-Stream
+**Git Repository:** https://github.com/shirelsan/BigData-Chicago-Crime-Kafka-Stream.git
 
 ## 1. Environment Setup
 
